@@ -33,8 +33,14 @@ o Objetivo é ha criação de uma pasta com os dias do mês de tal ano escolhido
   
 ## Desafios e solução 
 
-Os desafios estavam sim presentes em todos os processos mas com ajuda dos professores 
+Os desafios estavam sim presentes em todos os processos mas com ajuda dos professores e meus colgas tudo foi resolvido, porém mesmo com ajudas os processos era muito complicado e dificil de entender ainda mais em relação aos anos bissexto pois não chegava a nenhum resultado exato. Assim sendo, um trabalho legal de se fazer.
 
 ## O que aprendeu
 
+Aprendi comandos novos como o `if` `for` `set`, consegui melhor meu reciocínio logico ou ate mesmo criar meu próprio calendário em pasta, procurar formas de resolver melhor o problema, aproveitando mais o Prompt de Comando e descobrindo novos códigos.
+
 ## Possiveis Melhorias 
+- Saber calcular melhor os anos bissextos
+- Decorar os códigos
+- Deixar os códigos mais facil de entender
+
